@@ -11,6 +11,7 @@
 0.6::samechromosome(p720,p721).
 0.3::samechromosome(p888,p001).
 0.8::samechromosome(p766,p543).
+0.2::samechromosome(p543,p001).
 0.9::samechromosome(p321,p684).
 
 % Given that p888 and p001 are in the same genechain
